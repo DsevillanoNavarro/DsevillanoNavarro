@@ -21,12 +21,14 @@ Actualmente trabajando en diversos proyectos personales mientras desarrollo mis 
 
 ## 📂 Proyectos destacados
 
-| Proyecto | Descripción | Tecnología |
-|---------|-------------|------------|
-| [AnimalesMasquefa](https://github.com/DsevillanoNavarro/AnimalesMasquefa) | Portal sobre animales locales | JavaScript |
-| [TiendaVirtual](https://github.com/DsevillanoNavarro/TiendaVirtual) | E-commerce en desarrollo | Python |
-| [ProyectoDjango](https://github.com/DsevillanoNavarro/ProyectoDjango) | Web con Django y HTML | HTML |
-| [Sevify](https://github.com/DsevillanoNavarro/Sevify) | Desarrolladora de páginas web | TypeScript |
+| Proyecto | Descripción | Tecnologías y Frameworks |
+|----------|-------------|---------------------------|
+| [AnimalesMasquefa](https://github.com/DsevillanoNavarro/AnimalesMasquefa) | Plataforma full-stack para la gestión de un refugio de animales. Incluye autenticación JWT, panel administrativo, automatizaciones por correo y CRUD de animales, adopciones y noticias. Proyecto de fin de grado con despliegue completo. [🔗 Ver online](https://animalistesmasquefa.netlify.app) | Django 5, Django REST Framework, React 18, PostgreSQL, JWT, Netlify, Render.com, Lottie, Jet Dashboard |
+| [TiendaVirtual](https://github.com/DsevillanoNavarro/TiendaVirtual) | E-commerce con Django en desarrollo. Incluye gestión de productos, autenticación de usuarios y funcionalidades administrativas. | Django, Python, HTML, CSS |
+| [ProyectoDjango](https://github.com/DsevillanoNavarro/ProyectoDjango) | Plataforma web desarrollada en Django para gestionar adopciones, noticias y comentarios. Permite el registro de usuarios, solicitudes de adopción, panel administrativo, sistema de comentarios con control de tiempo, y formularios con validaciones inteligentes. | Django, Bootstrap, HTML, Python |
+| [Sevify](https://github.com/DsevillanoNavarro/Sevify) | Plataforma web moderna centrada en diseño minimalista, SEO avanzado y rendimiento óptimo. Usa Next.js 15, Server Components, Tailwind y una arquitectura escalable. En producción en [sevify.es](https://sevify.es). Documentación disponible en [DeepWiki](https://deepwiki.dev/sevify). | Next.js 15, React 19, TypeScript, Tailwind CSS, ShadCN, Framer Motion, Radix UI, Netlify, Embla Carousel, Recharts, Nodemailer |
+
+
 
 ---
 
